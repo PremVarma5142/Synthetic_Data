@@ -1,4 +1,4 @@
-# 🚀🤖 Synthetic Data Generator for Object Detection 🚀🤖
+# 🚀🤖 Synthetic Data Generator 🚀🤖
 
 ## Overview
 
