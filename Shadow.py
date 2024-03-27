@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image, ImageChops
 import os
 
-# Define the root directory and output directory
+# Define the root directory and output directory here 
 root_directory = '/home/raptor1/txt/Objects_Sorted'
 output_directory = 'output_folder'
 
